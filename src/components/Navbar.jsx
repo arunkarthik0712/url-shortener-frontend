@@ -45,7 +45,17 @@ const Navbar = ({ isLoggedIn, handleLogout }) => {
               </li>
             </>
           ) : (
-            <></>
+            <>
+              <li className="nav-item">
+                <a
+                  className="nav-link link"
+                  target="_blank"
+                  href="https://github.com/arunkarthik0712/url-shortener-frontend/blob/main/README.md"
+                >
+                  Docs
+                </a>
+              </li>
+            </>
           )}
         </ul>
       </div>
