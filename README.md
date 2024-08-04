@@ -22,7 +22,7 @@ This project is a URL shortener application built using the MERN stack (MongoDB,
 ## Deployed URL:
 
 - **Frontend**: [https://arunkarthik0710-url-shortener.netlify.app/](https://arunkarthik0710-url-shortener.netlify.app/)
-- **Backend**: `https://url-shortener-i6s8.onrender.com/api/urls`
+- **Backend**: `https://url-shortener-i6s8.onrender.com`
 
 ---
 
